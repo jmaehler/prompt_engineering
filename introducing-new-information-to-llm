@@ -1,0 +1,31 @@
+# demonstrating how new information gets introduced to the model and make the model work with this new information
+
+Costa Rica Visitor Data
+
+
+User
+Hi ChatGBT! Costa Rica had the following visitor numbers per year in the past years:
+ChatGPT
+Hey there! Sure, I'd be happy to help you with that. Could you please provide me with the visitor numbers for each year you're interested in?
+
+User
+2016: 2.9 million, 2017: 2.9 million, 2018: 3 million, 2019: 3.1 million, 2020: 1 million
+
+ChatGPT
+Got it, thanks! It looks like there was a steady increase in visitor numbers from 2016 to 2019, but then a significant drop in 2020. What else would you like to know about these numbers?
+
+User
+How many visitors are there in 2024?
+ChatGPT
+I can't provide real-time data, but I can certainly make a prediction based on past trends, if you'd like. Typically, if the trend of increasing visitor numbers continued, we might expect to see a higher number in 2024 compared to previous years. However, external factors like economic conditions, global events, or changes in travel patterns could also influence these numbers.
+
+User
+Lets say the drop in 2020 occurred due to the worldwide covid pandemic, but then in 2021 it climbed up again to 1.3 million followed by 2.3 million in 2022. Could you give a more precise prediction for 2024 now?
+ChatGPT
+Given the trend you've described, where visitor numbers dropped significantly in 2020 due to the COVID-19 pandemic but then began to recover in 2021 and 2022, it's reasonable to expect further growth in 2024 as travel continues to rebound. If we assume a similar rate of increase in visitor numbers as in the years prior to the pandemic, we might predict a figure above 2.3 million for 2024, possibly exceeding 2.5 million or even approaching 3 million if the recovery is strong. However, it's important to remember that predictions are inherently uncertain and subject to various factors, so this estimate should be taken as a rough guideline rather than a definitive figure.
+
+
+Message ChatGPT
+
+ChatGPT can make mistakes. Consider checking important information.
+
