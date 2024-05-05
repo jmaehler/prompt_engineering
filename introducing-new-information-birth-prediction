@@ -1,0 +1,27 @@
+Hi ChatGBT! Can you predict me the amount of births in Germany per year in 2024 based on numbers I give you of the past 5 years?
+
+ChatGPT
+Sure, I can help you with that. Please provide me with the number of births in Germany for each of the past 5 years, and I'll use that data to make a prediction for 2024.
+
+User
+2023: 693,019	2022: 738,819	2021: 795,492	2020: 773,144	209: 778,090
+ChatGPT
+Great, thank you for providing the data. I'll use a simple linear regression model to predict the number of births in Germany for 2024 based on the trend in the past 5 years.
+
+First, let's calculate the average annual change in births over the past 5 years:
+
+Average change = [(693,019 - 738,819) + (738,819 - 795,492) + (795,492 - 773,144) + (773,144 - 778,090)] / 4
+
+Average change = (-45,800 - 56,673 + 22,348 - 4,946) / 4
+
+Average change = -84,071 / 4
+
+Average change ≈ -21,018
+
+Now, let's apply this average change to the number of births in 2023 to predict the number of births in 2024:
+
+Predicted births in 2024 = 693,019 - 21,018
+
+Predicted births in 2024 ≈ 671,001
+
+So, based on the provided data and the calculated average annual change, the predicted number of births in Germany for 2024 is approximately 671,001.
